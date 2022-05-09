@@ -1,2 +1,2 @@
 # eve-recipe
-Sol2 Conan Recipe for RageDB
+Eve Conan Recipe for RageDB
